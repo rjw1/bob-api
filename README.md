@@ -1,4 +1,4 @@
-Bob API
+bob API
 =======
 
-A fictional API for Bob.
+A fictional API for bob.
