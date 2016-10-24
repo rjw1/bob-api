@@ -10,3 +10,7 @@ A fictional API for [bob](https://twitter.com/rjw1) inspired, in part, by [bob-w
 - Sinatra ships with the WEBrick HTTP server; start it up using `bundle exec rackup`.
 
 - Fire commands at your WEBrick server running bob-api by noting the HTTP port WEBrick started up on, and using cURL to create HTTP requests. For example, `curl -I localhost:9292/pie`, where 9292 was the port WEBrick started on.
+
+## Contributions
+
+Welcome and encouraged via pull request.
