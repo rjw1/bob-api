@@ -1,7 +1,7 @@
-Bob API
+bob-api
 =======
 
-A fictional API for Bob.
+A fictional API for [bob](https://twitter.com/rjw1) inspired, in part, by [bob-walker](https://github.com/dcarley/bob-walker).
 
 ## Install
 
